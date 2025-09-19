@@ -76,7 +76,7 @@ function cancelOrder(event) {
   - Use a custom foundset if validating a different record set.
 
 ## Validation Code 📄
-Place the following code in your scope file (e.g., `scopes/globals.js`):
+Copy the validation functions (`validateFields` and `hideErrorLabels`) from the `globals.js` file in this repository and paste them into your own `scopes/globals.js` file in your Servoy solution.
 
 ## Contributing 🤝
 Feel free to fork this repo and submit pull requests for improvements, such as adding more validation types (e.g., regex checks) or better error handling. Your contributions are welcome! 🌟
