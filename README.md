@@ -1,4 +1,4 @@
-# Servoy-Field-Validation
+# Servoy Field Validation
 
 ![Servoy Logo](https://img.shields.io/badge/Servoy-Validation-blue?style=flat-square&logo=servoy)  
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)  
